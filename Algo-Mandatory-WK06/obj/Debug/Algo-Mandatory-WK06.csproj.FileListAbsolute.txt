@@ -1,0 +1,6 @@
+c:\users\anderswolsen\documents\visual studio 2015\Projects\Algo-Mandatory-WK06\Algo-Mandatory-WK06\bin\Debug\Algo-Mandatory-WK06.exe.config
+c:\users\anderswolsen\documents\visual studio 2015\Projects\Algo-Mandatory-WK06\Algo-Mandatory-WK06\bin\Debug\Algo-Mandatory-WK06.exe
+c:\users\anderswolsen\documents\visual studio 2015\Projects\Algo-Mandatory-WK06\Algo-Mandatory-WK06\bin\Debug\Algo-Mandatory-WK06.pdb
+c:\users\anderswolsen\documents\visual studio 2015\Projects\Algo-Mandatory-WK06\Algo-Mandatory-WK06\obj\Debug\Algo-Mandatory-WK06.csprojResolveAssemblyReference.cache
+c:\users\anderswolsen\documents\visual studio 2015\Projects\Algo-Mandatory-WK06\Algo-Mandatory-WK06\obj\Debug\Algo-Mandatory-WK06.exe
+c:\users\anderswolsen\documents\visual studio 2015\Projects\Algo-Mandatory-WK06\Algo-Mandatory-WK06\obj\Debug\Algo-Mandatory-WK06.pdb
